@@ -434,7 +434,7 @@
 	(footprint "TestPoint:TestPoint_THTPad_D3.0mm_Drill1.5mm"
 		(layer "F.Cu")
 		(uuid "0ca7cfaa-7462-4442-9976-c0d142a80652")
-		(at 134.5 123 90)
+		(at 134.5 123.5 90)
 		(descr "THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm")
 		(tags "test point THT pad")
 		(property "Reference" "J2"
