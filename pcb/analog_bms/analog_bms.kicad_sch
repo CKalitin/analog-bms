@@ -2937,7 +2937,7 @@
 	)
 	(text_box "Q3 and Q5 PFETs conduct when Vgs < B+ - 1V (Vgs(th) = -1 V). Normally their gates are pulled to GND and closed, when either comparator activates, they are pulled to 5V and open.\n\nQ3 and Q5 both normally closed FETs. In contrast, Q1 and Q2 gates are pulled high and low respectively to ensure they are default open.\n\nAt ~1 V Vgs the NFETs drain current is ~1 A. I will limit battery voltage to 1 V and make the resettable PTC fuse 1 A to account for this. It's a design flaw so rev2 will have to be a big redesign. Also combine logic onto signal side to have 2 power-side FETs."
 		(exclude_from_sim no)
-		(at 231.14 39.37 0)
+		(at 209.55 49.53 0)
 		(size 44.45 38.1)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
