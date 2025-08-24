@@ -6112,7 +6112,7 @@
 				)
 			)
 		)
-		(property "Value" "Thermistor_PTC"
+		(property "Value" "Thermistor_NTC"
 			(at 57.4675 162.56 90)
 			(effects
 				(font
