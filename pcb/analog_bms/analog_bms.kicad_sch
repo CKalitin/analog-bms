@@ -6032,7 +6032,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3b700905-2d4c-4f41-8bfa-9680c17a9712")
 		(property "Reference" "R12"
 			(at 86.868 124.46 90)
@@ -6043,7 +6043,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1M"
 			(at 86.868 127 90)
 			(effects
 				(font
