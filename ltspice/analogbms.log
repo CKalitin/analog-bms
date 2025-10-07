@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
 Circuit: C:\_Dev\analog-bms\ltspice\analogbms.net
-Start Time: Sun Sep 21 09:49:45 2025
+Start Time: Sun Oct  5 17:33:27 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -17,25 +17,21 @@ Gmin = 0.000142725
 Gmin = 1.5325e-05
 Gmin = 1.6455e-06
 vernier = 0.5
-vernier = 0.25
-vernier = 0.333333
-Gmin = 1.24638e-06
-vernier = 0.444444
-Gmin = 4.93233e-07
-vernier = 0.592592
-vernier = 0.790123
-Gmin = 1.12836e-07
+vernier = 0.666667
+Gmin = 6.16112e-07
+vernier = 0.888888
 vernier = 1
-Gmin = 1.3779e-08
-Gmin = 1.47951e-09
-Gmin = 1.58861e-10
-Gmin = 1.70576e-11
-Gmin = 1.83154e-12
-Gmin = 1.9666e-13
+Gmin = 8.6905e-08
+Gmin = 9.33136e-09
+Gmin = 1.00195e-09
+Gmin = 1.07583e-10
+Gmin = 1.15517e-11
+Gmin = 1.24035e-12
+Gmin = 1.33182e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.475 seconds.
+Total elapsed time: 0.454 seconds.
 
 Files loaded:
 C:\_Dev\analog-bms\ltspice\analogbms.net
